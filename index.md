@@ -13,3 +13,6 @@ INCLUDE <IOSTREAM>
 using namespade std;
 cout<<"Hello World!";
 ```
+- [ ] 1
+- [x] 2
+- [ ] 3
